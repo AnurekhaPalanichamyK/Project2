@@ -1,2 +1,7 @@
 sample file
+<<<<<<< HEAD
 change by dev2
+=======
+change by dev1
+
+>>>>>>> ed2e26a09a1a4265705343a9081de1644cda7f4f
